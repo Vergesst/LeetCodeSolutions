@@ -1,4 +1,4 @@
-package nonLeetcodeSolu
+package matrixSolutions
 
 fun distributeEgg(eggs: Int, baskets: Int): List<List<Int>> {
     val result = mutableListOf<List<Int>>()
